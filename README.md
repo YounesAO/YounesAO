@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20I'm%20YounesAO!&fontSize=50&fontAlignY=35&desc=Crafting%20Digital%20Solutions%20•%20Building%20Tomorrow&descAlignY=55&fontColor=ffffff&animation=fadeIn" alt="Dynamic Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2dceef,3c8dbc,1e528e,273c75&height=200&section=header&text=Hi%20I'm%20YounesAO!&fontSize=50&fontAlignY=35&desc=Crafting%20Digital%20Solutions%20•%20Building%20Tomorrow&descAlignY=55&fontColor=ffffff&animation=fadeIn" alt="Dynamic Header"/>
 </div>
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=4F94CD&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Computer+Science+Engineer;Full-Stack+Developer;DevOps+%26+BI+Enthusiast;Always+Learning%2C+Always+Building)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=3C8DBC&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Computer+Science+Engineer;Full-Stack+Developer;DevOps+%26+BI+Enthusiast;Always+Learning%2C+Always+Building)
   
   <br/>
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=YounesAO&style=for-the-badge&color=4F94CD&label=PROFILE+VIEWS)](https://github.com/YounesAO)
+  [![Profile Views](https://komarev.com/ghpvc/?username=YounesAO&style=for-the-badge&color=3C8DBC&label=PROFILE+VIEWS)](https://github.com/YounesAO)
   [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/younes-ao)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://younes-ao.dev)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-1e528e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://younes-ao.dev)
   
 </div>
 
@@ -47,56 +47,56 @@ const younes = {
 <summary><b>🔧 Languages & Frameworks</b></summary>
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3c8dbc?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-273c75?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2dceef?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-1e528e?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-3c8dbc?style=for-the-badge&logo=c&logoColor=white)
 
 ### Frontend Technologies
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-3c8dbc?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-273c75?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-2dceef?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1e528e?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-273c75?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend & Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Java EE](https://img.shields.io/badge/Java_EE-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3c8dbc?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-2dceef?style=for-the-badge&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-273c75?style=for-the-badge&logo=flask&logoColor=white)
+![Java EE](https://img.shields.io/badge/Java_EE-3c8dbc?style=for-the-badge&logo=java&logoColor=white)
 
 </details>
 
 <details>
 <summary><b>🗄️ Databases & Analytics</b></summary>
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-1e528e?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-2dceef?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-273c75?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-3c8dbc?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1e528e?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-2dceef?style=for-the-badge&logo=apache-hadoop&logoColor=black)
 
 </details>
 
 <details>
 <summary><b>☁️ Cloud & DevOps</b></summary>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-273c75?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-3c8dbc?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-2dceef?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-1e528e?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-273c75?style=for-the-badge&logo=github&logoColor=white)
 
 </details>
 
 <details>
 <summary><b>📊 BI & Analytics Tools</b></summary>
 
-![Talend](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=talend&logoColor=white)
-![Pentaho](https://img.shields.io/badge/Pentaho-0E4B99?style=for-the-badge&logoColor=white)
-![BIRT](https://img.shields.io/badge/Eclipse_BIRT-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Talend](https://img.shields.io/badge/Talend-3c8dbc?style=for-the-badge&logo=talend&logoColor=white)
+![Pentaho](https://img.shields.io/badge/Pentaho-1e528e?style=for-the-badge&logoColor=white)
+![BIRT](https://img.shields.io/badge/Eclipse_BIRT-273c75?style=for-the-badge&logo=eclipse&logoColor=white)
 
 </details>
 
@@ -107,7 +107,7 @@ const younes = {
 <table>
 <tr>
 <td>
-<img src="https://img.shields.io/badge/2023--2026-4F94CD?style=for-the-badge&logoColor=white" alt="2023-2026"/>
+<img src="https://img.shields.io/badge/2023--2026-3c8dbc?style=for-the-badge&logoColor=white" alt="2023-2026"/>
 </td>
 <td>
 <strong>Engineering Degree in Computer Science (2ITE)</strong><br/>
@@ -116,7 +116,7 @@ const younes = {
 </tr>
 <tr>
 <td>
-<img src="https://img.shields.io/badge/2021--2023-28A745?style=for-the-badge&logoColor=white" alt="2021-2023"/>
+<img src="https://img.shields.io/badge/2021--2023-2dceef?style=for-the-badge&logoColor=white" alt="2021-2023"/>
 </td>
 <td>
 <strong>DUT in Computer Engineering</strong><br/>
@@ -168,12 +168,12 @@ const younes = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YounesAO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4F94CD&icon_color=4F94CD&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounesAO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F94CD&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YounesAO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=161c2b&title_color=2dceef&icon_color=3c8dbc&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounesAO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=161c2b&title_color=2dceef&text_color=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YounesAO&theme=tokyonight&hide_border=true&background=0D1117&stroke=4F94CD&ring=4F94CD&fire=FF6B35&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=4F94CD&sideNums=4F94CD&dates=FFFFFF" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YounesAO&theme=tokyonight&hide_border=true&background=161c2b&stroke=2dceef&ring=3c8dbc&fire=2dceef&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=3c8dbc&sideNums=3c8dbc&dates=ffffff" alt="streak stats"/>
 </div>
 
 <div align="center">
@@ -182,7 +182,7 @@ const younes = {
 
 ### 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YounesAO&theme=tokyo-night&bg_color=0D1117&color=4F94CD&line=4F94CD&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YounesAO&theme=tokyo-night&bg_color=161c2b&color=3c8dbc&line=2dceef&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -218,23 +218,23 @@ const younes = {
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:younes.ao.dev@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/younes-ao)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/younes_ao_dev)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/younes-ao)
+  [![Email](https://img.shields.io/badge/Email-273c75?style=for-the-badge&logo=gmail&logoColor=white)](mailto:younes.ao.dev@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-3c8dbc?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/younes-ao)
+  [![Twitter](https://img.shields.io/badge/Twitter-2dceef?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/younes_ao_dev)
+  [![Discord](https://img.shields.io/badge/Discord-1e528e?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/younes-ao)
   
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2dceef,3c8dbc,1e528e,273c75&height=120&section=footer&animation=fadeIn" alt="Footer"/>
   
   <br/>
   
-  **💡 "Code is like humor. When you have to explain it, it's bad." – Cory House**
+  <span style="color:#3c8dbc; font-size:1.1em;"><b>💡 "Strive for progress, not perfection."</b></span>
   
-  <sub>⭐ From [YounesAO](https://github.com/YounesAO) with ❤️</sub>
+  <sub>⭐ From <a href="https://github.com/YounesAO">YounesAO</a> with 💙</sub>
   
 </div>
 
