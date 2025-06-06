@@ -218,9 +218,9 @@ const younes = {
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/Email-273c75?style=for-the-badge&logo=gmail&logoColor=white)](mailto:younes.ao.dev@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-3c8dbc?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/younes-ao)
-  [![Twitter](https://img.shields.io/badge/Twitter-2dceef?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/younes_ao_dev)
+  [![Email](https://img.shields.io/badge/Email-273c75?style=for-the-badge&logo=gmail&logoColor=white)](mailto:younes.aitouahda@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-3c8dbc?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/younes-ait-ouahda)
+  [![Twitter](https://img.shields.io/badge/Twitter-2dceef?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/itOuahdaYounes)
   [![Discord](https://img.shields.io/badge/Discord-1e528e?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/younes-ao)
   
 </div>
