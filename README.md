@@ -9,8 +9,8 @@
   <br/>
   
   [![Profile Views](https://komarev.com/ghpvc/?username=YounesAO&style=for-the-badge&color=3C8DBC&label=PROFILE+VIEWS)](https://github.com/YounesAO)
-  [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/younes-ao)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-1e528e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://younes-ao.dev)
+  [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/younes-ait-ouahda)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-1e528e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://younesaitouahda.vercel.app/)
   
 </div>
 
